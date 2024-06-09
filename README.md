@@ -1,3 +1,6 @@
+# Warning: Deprecated
+This repository has been deprecated and is now unmaintained. For an up-to-date version of the plugin compatible with Blender 3.0+, please see the main chrono [source code](https://github.com/projectchrono/chrono/tree/main/src/importer_blender).
+
 **Installing the Plugin and Chrono::Render**
 
 *For a more comprehinsive understanding of the plugin, read the 
